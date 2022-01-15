@@ -1,0 +1,26 @@
+<svg width="433px" height="78px" viewBox="0 0 433 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <radialGradient cx="50%" cy="126.574606%" fx="50%" fy="126.574606%" r="126.574606%" gradientTransform="translate(0.500000,1.265746),scale(0.180139,1.000000),rotate(-90.000000),scale(1.000000,2.761394),translate(-0.500000,-1.265746)" id="radialGradient-1">
+            <stop stop-color="#02A25B" stop-opacity="0.4" offset="0%"></stop>
+            <stop stop-color="#515765" stop-opacity="0.2" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="0" y="0" width="433" height="78"></rect>
+        <linearGradient x1="100%" y1="2.5510205%" x2="0%" y2="2.5510205%" id="linearGradient-3">
+            <stop stop-color="#68E755" offset="0%"></stop>
+            <stop stop-color="#02A25B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1_3_2_HC_BATTLE-page-3us-READY-TO-PLAY_WATCHER" transform="translate(-29.000000, -633.000000)">
+            <g id="USER-1" transform="translate(29.000000, 633.000000)">
+                <g id="user-1">
+                    <g id="Rectangle-20">
+                        <use fill-opacity="0.3" fill="#1C2127" xlink:href="#path-2"></use>
+                        <use fill="url(#radialGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                    <path d="M1,77 L432,77" id="Line-4" stroke="url(#linearGradient-3)" stroke-width="2" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
